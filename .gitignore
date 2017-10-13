@@ -1,0 +1,9 @@
+SatElite
+rsat
+rsat.sh
+*.exe
+php_*.cnf
+hanoi.out
+hanoi*.cnf
+csp_simple.cnf
+fla.cnf

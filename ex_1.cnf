@@ -1,0 +1,5 @@
+c Line starting with c is a comment.
+p cnf 4 2
+1 2 0
+-3 -2 -1 4 0
+
